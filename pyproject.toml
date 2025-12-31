@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rcinpy"
+version = "1.0.0"
+authors = [
+  { name="Kelechi :alias: BigNature", email="bytesbrawler@gmail.com" },
+]
+description = "A simple bridge to run C code directly from Python"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
