@@ -10,4 +10,4 @@
 
 ## Installation
 ```bash
-pip install rcinpy
+pip install git+https://github.com/777Tu/rcinpy.git
