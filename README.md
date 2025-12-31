@@ -1,4 +1,4 @@
-# rcinpy 😈
+# rcinpy 
 
 **rcinpy** is a lightweight Python bridge that allows you to execute C code directly from your Python scripts without manual compilation.
 
