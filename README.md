@@ -17,6 +17,7 @@
 
 > Make sure you have `git`, `python` (and `pip`) and `gcc` installed on your system.
 
+- From the GitHub repository:
 ```bash
 pip install git+https://github.com/777Tu/rcinpy.git
 ```
@@ -108,4 +109,11 @@ MIT
 ---
 
 ## 📎 Links
-- Repository: [rcinpy on GitHub](https://github.com/<username>/rcinpy)
+- Repository: [rcinpy on GitHub](https://github.com/777Tu/rcinpy)
+
+---
+
+## Metadata
+- Author: @777Tu
+- Created: 2026-01-01
+- License: MIT
